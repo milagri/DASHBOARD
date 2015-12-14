@@ -136,3 +136,30 @@
         width: 75%;
     }
 }
+
+/*estilos personalizados*/
+
+#topbar
+{
+    background: #424a5d;
+    height: 60px;
+    
+}
+#topbar a {
+    color: #fff;
+    font-size: 16px;
+
+}
+#sidebar li {
+    padding: 3% 3% 3% 0;
+}
+#sidebar a {
+    color: #6E6E6E;
+}
+.img-profi img{
+    width:60% ;
+}
+.avatar{
+    text-align: center;
+}
+
