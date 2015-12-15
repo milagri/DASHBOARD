@@ -153,6 +153,7 @@
 #sidebar li {
     padding: 3% 3% 3% 0;
 }
+
 #sidebar a {
     color: #6E6E6E;
 }
@@ -162,4 +163,6 @@
 .avatar{
     text-align: center;
 }
-
+.img-gal {
+    padding: 6%;
+}
